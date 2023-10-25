@@ -1,5 +1,5 @@
 <!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eyad Alsherif-->
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=32&duration=2000&pause=1000&color=FFFFFF&background=3D5371&center=true&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Hello+there+;My+Name+is+Eyad+ALsherif;I+am+a+Frontend+developer" alt="Typing SVG" /></a>
+<div align="center"><a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=32&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Hello+there+👋🏼;My+Name+is+Eyad+ALsherif;I+am+a+Frontend+developer+💻" alt="Typing SVG" /></a></div>
 <!--=====================================================================================================================================-->
 
 <!--FrontEnd developer-->
@@ -32,15 +32,18 @@ src="https://img.shields.io/github/followers/daniel-d7a?logo=github&style=for-th
 
 <h3 align="center">Badges</h3>
 </br>
-<div display="flex">
-<a display="inline" align="left" href="http://www.github.com/daniel-d7a"><img src="https://github-readme-stats.vercel.app/api?username=daniel-d7a&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daniel-d7a's GitHub stats" /></a>
-
-<a align="right" display="inline" href="http://www.github.com/daniel-d7a"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-d7a&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=daniel-d7a&show_icons=true&theme=github_dark"/>
 </div>
-<!-- <a href="http://www.github.com/daniel-d7a"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniel-d7a&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
- -->
-<a align="center" href="https://github.com/daniel-d7a" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-d7a&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</br>
+<!-- <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-d7a&langs_count=8&theme=github_dark&layout=donut"/>
+</div>
+</br> -->
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel-d7a&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+</br>
 <h3 align="center">Top Repositories</h3>
 
-<div width="100%" align="center"><a href="https://github.com/daniel-d7a/book-community" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-d7a&repo=book-community&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/daniel-d7a/book-community" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-d7a&repo=book-community&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c191700&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
