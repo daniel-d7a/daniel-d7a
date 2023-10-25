@@ -34,11 +34,11 @@ src="https://img.shields.io/github/followers/daniel-d7a?logo=github&style=for-th
  <a href="https://www.linkedin.com/in/eyad-alsherif-741177216/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
 <!--  <a href="https://www.youtube.com/@eyadalsherif/featured" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p> -->
 
-<h3 align="center">Badges</h3>
+<h3 align="center">My commit history</h3>
 </br>
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=daniel-d7a&show_icons=true&theme=github_dark"/>
-</div>
+</div> -->
 </br>
 <!-- <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-d7a&langs_count=8&theme=github_dark&layout=donut"/>
@@ -48,12 +48,14 @@ src="https://img.shields.io/github/followers/daniel-d7a?logo=github&style=for-th
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel-d7a&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 </br>
-<h3 align="center">Top Repositories</h3>
-
-<div width="100%" align="center"><a href="https://github.com/daniel-d7a/book-community" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-d7a&repo=book-community&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c191700&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+</br>
+<h3 align="center">Top Repositories</h3>
+
+<div width="100%" align="center"><a href="https://github.com/daniel-d7a/book-community" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-d7a&repo=book-community&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c191700&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
