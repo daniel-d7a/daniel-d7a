@@ -11,6 +11,7 @@ I am a very passionate developer, a gamer, and a avid learner.
 * 🖥️  See my portfolio at [My portfolio](http://eyad-alsherif-portfolio-daniel-d7a.vercel.app/)
 * ✉️  You can contact me at [eyadabdou86@gmail.com](mailto:eyadabdou86@gmail.com)
 * 🚀  I'm currently working on [Book Community](http://book-community-pearl.vercel.app/login)
+* 📝 I regularly write articles on [My Linkedin page](https://www.linkedin.com/in/eyad-alsherif-741177216/)
 * 🧠  I'm learning Angular, TypeScript, and C# asp.net
 * 🤝  I'm open to collaborating on Anything
 * ⚡  I am also a programming instructor!
