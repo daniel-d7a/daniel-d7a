@@ -1,5 +1,9 @@
 <!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eyad Alsherif-->
-<div align="center"><a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=32&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Hello+there+👋🏼;My+Name+is+Eyad+ALsherif;I+am+a+Frontend+developer+💻" alt="Typing SVG" /></a></div>
+<div align="center">
+ 
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cairo&weight=600&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=150&lines=Hello+there+%F0%9F%91%8B;My+name+is+Eyad+Alsherif;I+am+a+frontend+developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+</div>
 <!--=====================================================================================================================================-->
 
 <!--FrontEnd developer-->
